@@ -1,4 +1,4 @@
-    # Setting up K8s v1.23.17 on minikube
+# Setting up K8s v1.23.17 on minikube
 
 ### Pre-requisite:
 
